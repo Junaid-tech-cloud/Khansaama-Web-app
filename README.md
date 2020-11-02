@@ -1,4 +1,4 @@
 # fyp
-This was my final year project.
+This is my final year project.
 
-This is an REST API server which serves data to an Android app developed in Java. The app is a food ordering app much like Foodpanda which offers the functionality to search food/restaurants in a radius of 2km and place an order.
+The rest API server serves data to the web application. These API's are hit from the frontend. The backend is made using node js while the frontend is developed in React js.
